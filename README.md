@@ -27,4 +27,4 @@ https://openweathermap.org/current
 ### `Application Details`
 This is a Weather Application assignment for SS solutions. Users can write city,  country name and click on submit. he/she will be able to see the weather details of the searched city with the help of open weather API.
 
-### `Note: API key is present in .evn file`
+#### Note: API key is present in .evn file
